@@ -344,6 +344,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/* -------footer------ */
 .footer {
   background-color: #2e2f42;
   padding-top: 100px;
@@ -390,3 +391,18 @@ img {
 .footer-social-link:focus {
   background-color: #31d0aa;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----modal--- */
